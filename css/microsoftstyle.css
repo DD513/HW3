@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Microsoft JHengHei;
+}
+.left {
+    float: left;
+    padding: 15px 60px;
+    text-align: center;
+}
+.right {
+    float: right;
+    padding: 15px 60px;
+}
+.left #Microsoft {
+    vertical-align:-50%;
+}
+.left a {
+    color: #262626;
+    padding-left: 20px;
+    font-size: 12px;
+    text-decoration: none;
+}
+.left a:hover {
+    text-decoration: underline #000;
+}
+.right a {
+    display: inline;
+    color: #262626;
+    font-size: 12px;
+    text-decoration: none;
+}
+.right a:hover {
+    text-decoration: underline #000;
+}
+#under{
+    padding-right: 20px;
+}
+.right img {
+    vertical-align: middle;
+}
+.right img:hover {
+    cursor: pointer;
+}
